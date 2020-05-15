@@ -1,5 +1,5 @@
 | Problem ID       | Name                                                                             | Date solved |
-|------------------|----------------------------------------------------------------------------------|-------------|
+| :--------------- | :------------------------------------------------------------------------------- | :---------- |
 | ladder           | [Ladder](https://open.kattis.com/problems/ladder)                                | 2020-05-08  |
 | timeloop         | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)                | 2020-04-24  |
 | quadrant         | [Quadrant Selection](https://open.kattis.com/problems/quadrant)                  | 2020-04-24  |
