@@ -1,5 +1,6 @@
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| conformity       | [Conformity](https://open.kattis.com/problems/conformity)                        | 2020-05-25  |
 | mirror           | [Mirror Images](https://open.kattis.com/problems/mirror)                         | 2020-05-25  |
 | ladder           | [Ladder](https://open.kattis.com/problems/ladder)                                | 2020-05-08  |
 | timeloop         | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)                | 2020-04-24  |
