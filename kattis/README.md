@@ -1,5 +1,6 @@
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| okvir            | [Okvir](https://open.kattis.com/problems/okvir)                                  | 2020-05-26  |
 | conformity       | [Conformity](https://open.kattis.com/problems/conformity)                        | 2020-05-25  |
 | mirror           | [Mirror Images](https://open.kattis.com/problems/mirror)                         | 2020-05-25  |
 | ladder           | [Ladder](https://open.kattis.com/problems/ladder)                                | 2020-05-08  |
