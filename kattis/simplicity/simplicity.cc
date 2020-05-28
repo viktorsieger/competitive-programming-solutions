@@ -8,7 +8,7 @@ int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(0);
 
-    int alphabet[26] = {0}, i, simplicity = 0, index, erase = 0;
+    int alphabet[26] = {0}, i, simplicity = 0, erase = 0;
     char c;
 
     while(cin >> c) {
@@ -28,15 +28,8 @@ int main() {
 
     sort(alphabet, alphabet + 26);
 
-    for(i = 0; i < 26; ++i) {
-        if(alphabet[i] > 0) {
-            index = i;
-            break;
-        }
-    }
-
     for(i = 0; i < simplicity - 2; ++i) {
-        erase += alphabet[index + i];
+        erase += alphabet[26 - simplicity + i];
     }
 
     cout << erase << '\n';
