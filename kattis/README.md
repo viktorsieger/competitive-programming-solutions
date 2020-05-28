@@ -1,5 +1,6 @@
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| simplicity       | [Simplicity](https://open.kattis.com/problems/simplicity)                        | 2020-05-28  |
 | skener           | [Skener](https://open.kattis.com/problems/skener)                                | 2020-05-27  |
 | okvir            | [Okvir](https://open.kattis.com/problems/okvir)                                  | 2020-05-26  |
 | conformity       | [Conformity](https://open.kattis.com/problems/conformity)                        | 2020-05-25  |
