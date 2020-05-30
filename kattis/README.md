@@ -1,5 +1,6 @@
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| tarifa           | [Tarifa](https://open.kattis.com/problems/tarifa)                                | 2020-05-30  |
 | simplicity       | [Simplicity](https://open.kattis.com/problems/simplicity)                        | 2020-05-28  |
 | skener           | [Skener](https://open.kattis.com/problems/skener)                                | 2020-05-27  |
 | okvir            | [Okvir](https://open.kattis.com/problems/okvir)                                  | 2020-05-26  |
