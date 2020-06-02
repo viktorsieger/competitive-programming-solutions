@@ -1,5 +1,6 @@
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| misa             | [Misa](https://open.kattis.com/problems/misa)                                    | 2020-06-02  |
 | prva             | [Prva](https://open.kattis.com/problems/prva)                                    | 2020-06-01  |
 | mia              | [Mia](https://open.kattis.com/problems/mia)                                      | 2020-05-31  |
 | tarifa           | [Tarifa](https://open.kattis.com/problems/tarifa)                                | 2020-05-30  |
