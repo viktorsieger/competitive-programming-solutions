@@ -1,5 +1,6 @@
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| ptice            | [Ptice](https://open.kattis.com/problems/ptice)                                  | 2020-06-03  |
 | misa             | [Misa](https://open.kattis.com/problems/misa)                                    | 2020-06-02  |
 | prva             | [Prva](https://open.kattis.com/problems/prva)                                    | 2020-06-01  |
 | mia              | [Mia](https://open.kattis.com/problems/mia)                                      | 2020-05-31  |
