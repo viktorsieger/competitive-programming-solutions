@@ -1,5 +1,6 @@
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| oddities         | [Oddities](https://open.kattis.com/problems/oddities)                            | 2020-06-05  |
 | autori           | [Autori](https://open.kattis.com/problems/autori)                                | 2020-06-04  |
 | ptice            | [Ptice](https://open.kattis.com/problems/ptice)                                  | 2020-06-03  |
 | misa             | [Misa](https://open.kattis.com/problems/misa)                                    | 2020-06-02  |
