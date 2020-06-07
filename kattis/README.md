@@ -1,5 +1,6 @@
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| vote             | [Popular Vote](https://open.kattis.com/problems/vote)                            | 2020-06-07  |
 | howl             | [Howl](https://open.kattis.com/problems/howl)                                    | 2020-06-06  |
 | oddities         | [Oddities](https://open.kattis.com/problems/oddities)                            | 2020-06-05  |
 | autori           | [Autori](https://open.kattis.com/problems/autori)                                | 2020-06-04  |
