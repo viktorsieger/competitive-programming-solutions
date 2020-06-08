@@ -1,5 +1,6 @@
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| rollcall         | [Roll Call](https://open.kattis.com/problems/rollcall)                           | 2020-06-08  |
 | vote             | [Popular Vote](https://open.kattis.com/problems/vote)                            | 2020-06-07  |
 | howl             | [Howl](https://open.kattis.com/problems/howl)                                    | 2020-06-06  |
 | oddities         | [Oddities](https://open.kattis.com/problems/oddities)                            | 2020-06-05  |
