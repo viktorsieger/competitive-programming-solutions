@@ -1,5 +1,6 @@
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| recount          | [Recount](https://open.kattis.com/problems/recount)                              | 2020-06-11  |
 | anewalphabet     | [A New Alphabet](https://open.kattis.com/problems/anewalphabet)                  | 2020-06-10  |
 | reseto           | [Reseto](https://open.kattis.com/problems/reseto)                                | 2020-06-09  |
 | rollcall         | [Roll Call](https://open.kattis.com/problems/rollcall)                           | 2020-06-08  |
