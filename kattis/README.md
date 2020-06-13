@@ -1,5 +1,6 @@
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| peg              | [Peg](https://open.kattis.com/problems/peg)                                      | 2020-06-13  |
 | somesum          | [Some Sum](https://open.kattis.com/problems/somesum)                             | 2020-06-12  |
 | recount          | [Recount](https://open.kattis.com/problems/recount)                              | 2020-06-11  |
 | anewalphabet     | [A New Alphabet](https://open.kattis.com/problems/anewalphabet)                  | 2020-06-10  |
