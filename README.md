@@ -2,6 +2,7 @@
 
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| sok              | [Sok](https://open.kattis.com/problems/sok)                                      | 2020-06-15  |
 | filip            | [Filip](https://open.kattis.com/problems/filip)                                  | 2020-06-14  |
 | peg              | [Peg](https://open.kattis.com/problems/peg)                                      | 2020-06-13  |
 | somesum          | [Some Sum](https://open.kattis.com/problems/somesum)                             | 2020-06-12  |
