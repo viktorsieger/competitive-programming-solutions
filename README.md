@@ -2,6 +2,7 @@
 
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| drinkingsong     | [Drinking Song](https://open.kattis.com/problems/drinkingsong)                   | 2020-06-16  |
 | sok              | [Sok](https://open.kattis.com/problems/sok)                                      | 2020-06-15  |
 | filip            | [Filip](https://open.kattis.com/problems/filip)                                  | 2020-06-14  |
 | peg              | [Peg](https://open.kattis.com/problems/peg)                                      | 2020-06-13  |
