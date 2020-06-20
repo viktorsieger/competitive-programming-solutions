@@ -14,10 +14,7 @@ int main() {
     bool isRepeated = false;
 
     while(cin >> word) {
-
-        auto search = words.find(word);
-
-        if(search == words.end()) {
+        if(words.find(word) == words.end()) {
             words.insert(word);
         }
         else {
