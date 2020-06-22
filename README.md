@@ -2,6 +2,7 @@
 
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| krizaljka        | [Križaljka](https://open.kattis.com/problems/krizaljka)                          | 2020-06-22  |
 | ostgotska        | [Östgötska](https://open.kattis.com/problems/ostgotska)                          | 2020-06-21  |
 | nodup            | [No Duplicates](https://open.kattis.com/problems/nodup)                          | 2020-06-19  |
 | freefood         | [Free Food](https://open.kattis.com/problems/freefood)                           | 2020-06-18  |
