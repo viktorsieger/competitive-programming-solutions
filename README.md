@@ -2,6 +2,7 @@
 
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| patuljci         | [Patuljci](https://open.kattis.com/problems/patuljci)                            | 2020-06-24  |
 | sumoftheothers   | [Sum of the Others](https://open.kattis.com/problems/sumoftheothers)             | 2020-06-23  |
 | krizaljka        | [Križaljka](https://open.kattis.com/problems/krizaljka)                          | 2020-06-22  |
 | ostgotska        | [Östgötska](https://open.kattis.com/problems/ostgotska)                          | 2020-06-21  |
