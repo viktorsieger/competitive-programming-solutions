@@ -2,6 +2,7 @@
 
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| earlywinter      | [Early Winter](https://open.kattis.com/problems/earlywinter)                     | 2020-06-25  |
 | patuljci         | [Patuljci](https://open.kattis.com/problems/patuljci)                            | 2020-06-24  |
 | sumoftheothers   | [Sum of the Others](https://open.kattis.com/problems/sumoftheothers)             | 2020-06-23  |
 | krizaljka        | [Križaljka](https://open.kattis.com/problems/krizaljka)                          | 2020-06-22  |
