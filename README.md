@@ -2,6 +2,7 @@
 
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| cetiri           | [Cetiri](https://open.kattis.com/problems/cetiri)                                | 2020-06-27  |
 | slatkisi         | [Slatkisi](https://open.kattis.com/problems/slatkisi)                            | 2020-06-26  |
 | earlywinter      | [Early Winter](https://open.kattis.com/problems/earlywinter)                     | 2020-06-25  |
 | patuljci         | [Patuljci](https://open.kattis.com/problems/patuljci)                            | 2020-06-24  |
