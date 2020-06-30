@@ -2,6 +2,7 @@
 
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| printingcosts    | [Printing Costs](https://open.kattis.com/problems/printingcosts)                 | 2020-06-30  |
 | judging          | [Judging Troubles](https://open.kattis.com/problems/judging)                     | 2020-06-29  |
 | climbingworm     | [Climbing Worm](https://open.kattis.com/problems/climbingworm)                   | 2020-06-28  |
 | cetiri           | [Cetiri](https://open.kattis.com/problems/cetiri)                                | 2020-06-27  |
