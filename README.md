@@ -2,6 +2,7 @@
 
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| busnumbers       | [Bus Numbers](https://open.kattis.com/problems/busnumbers)                       | 2020-07-02  |
 | peasoup          | [Pea Soup and Pancakes](https://open.kattis.com/problems/peasoup)                | 2020-07-01  |
 | printingcosts    | [Printing Costs](https://open.kattis.com/problems/printingcosts)                 | 2020-06-30  |
 | judging          | [Judging Troubles](https://open.kattis.com/problems/judging)                     | 2020-06-29  |
