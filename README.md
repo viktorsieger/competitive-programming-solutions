@@ -2,6 +2,7 @@
 
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| licensetolaunch  | [License to Launch](https://open.kattis.com/problems/licensetolaunch)            | 2020-07-03  |
 | busnumbers       | [Bus Numbers](https://open.kattis.com/problems/busnumbers)                       | 2020-07-02  |
 | peasoup          | [Pea Soup and Pancakes](https://open.kattis.com/problems/peasoup)                | 2020-07-01  |
 | printingcosts    | [Printing Costs](https://open.kattis.com/problems/printingcosts)                 | 2020-06-30  |
