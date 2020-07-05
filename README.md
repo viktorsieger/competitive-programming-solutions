@@ -2,6 +2,7 @@
 
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| cursethedarkness | [Curse the Darkness](https://open.kattis.com/problems/cursethedarkness)          | 2020-07-05  |
 | parking          | [Parking](https://open.kattis.com/problems/parking)                              | 2020-07-04  |
 | licensetolaunch  | [License to Launch](https://open.kattis.com/problems/licensetolaunch)            | 2020-07-03  |
 | busnumbers       | [Bus Numbers](https://open.kattis.com/problems/busnumbers)                       | 2020-07-02  |
