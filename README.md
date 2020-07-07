@@ -2,6 +2,7 @@
 
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| raggedright      | [Ragged Right](https://open.kattis.com/problems/raggedright)                     | 2020-07-07  |
 | abc              | [ABC](https://open.kattis.com/problems/abc)                                      | 2020-07-06  |
 | cursethedarkness | [Curse the Darkness](https://open.kattis.com/problems/cursethedarkness)          | 2020-07-05  |
 | parking          | [Parking](https://open.kattis.com/problems/parking)                              | 2020-07-04  |
