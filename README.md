@@ -2,6 +2,7 @@
 
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| mathhomework     | [Math Homework](https://open.kattis.com/problems/mathhomework)                   | 2020-07-08  |
 | raggedright      | [Ragged Right](https://open.kattis.com/problems/raggedright)                     | 2020-07-07  |
 | abc              | [ABC](https://open.kattis.com/problems/abc)                                      | 2020-07-06  |
 | cursethedarkness | [Curse the Darkness](https://open.kattis.com/problems/cursethedarkness)          | 2020-07-05  |
