@@ -2,6 +2,7 @@
 
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| skocimis         | [Skocimis](https://open.kattis.com/problems/skocimis)                            | 2020-07-10  |
 | pokerhand        | [Poker Hand](https://open.kattis.com/problems/pokerhand)                         | 2020-07-09  |
 | mathhomework     | [Math Homework](https://open.kattis.com/problems/mathhomework)                   | 2020-07-08  |
 | raggedright      | [Ragged Right](https://open.kattis.com/problems/raggedright)                     | 2020-07-07  |
