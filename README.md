@@ -2,6 +2,7 @@
 
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| blackfriday      | [Black Friday](https://open.kattis.com/problems/blackfriday)                     | 2020-07-11  |
 | skocimis         | [Skocimis](https://open.kattis.com/problems/skocimis)                            | 2020-07-10  |
 | pokerhand        | [Poker Hand](https://open.kattis.com/problems/pokerhand)                         | 2020-07-09  |
 | mathhomework     | [Math Homework](https://open.kattis.com/problems/mathhomework)                   | 2020-07-08  |
