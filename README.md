@@ -2,6 +2,7 @@
 
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| babelfish        | [Babelfish](https://open.kattis.com/problems/babelfish)                          | 2020-07-14  |
 | vauvau           | [Vauvau](https://open.kattis.com/problems/vauvau)                                | 2020-07-13  |
 | nineknights      | [Nine Knights](https://open.kattis.com/problems/nineknights)                     | 2020-07-12  |
 | blackfriday      | [Black Friday](https://open.kattis.com/problems/blackfriday)                     | 2020-07-11  |
