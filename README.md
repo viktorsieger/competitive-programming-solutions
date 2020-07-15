@@ -2,6 +2,7 @@
 
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| delimitersoup    | [Delimiter Soup](https://open.kattis.com/problems/delimitersoup)                 | 2020-07-15  |
 | babelfish        | [Babelfish](https://open.kattis.com/problems/babelfish)                          | 2020-07-14  |
 | vauvau           | [Vauvau](https://open.kattis.com/problems/vauvau)                                | 2020-07-13  |
 | nineknights      | [Nine Knights](https://open.kattis.com/problems/nineknights)                     | 2020-07-12  |
