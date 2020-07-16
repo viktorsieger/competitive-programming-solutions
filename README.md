@@ -2,6 +2,7 @@
 
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| parking2         | [Parking](https://open.kattis.com/problems/parking2)                             | 2020-07-16  |
 | delimitersoup    | [Delimiter Soup](https://open.kattis.com/problems/delimitersoup)                 | 2020-07-15  |
 | babelfish        | [Babelfish](https://open.kattis.com/problems/babelfish)                          | 2020-07-14  |
 | vauvau           | [Vauvau](https://open.kattis.com/problems/vauvau)                                | 2020-07-13  |
