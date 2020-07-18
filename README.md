@@ -2,6 +2,7 @@
 
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| boatparts        | [Boat Parts](https://open.kattis.com/problems/boatparts)                         | 2020-07-18  |
 | character        | [Character Development](https://open.kattis.com/problems/character)              | 2020-07-17  |
 | parking2         | [Parking](https://open.kattis.com/problems/parking2)                             | 2020-07-16  |
 | delimitersoup    | [Delimiter Soup](https://open.kattis.com/problems/delimitersoup)                 | 2020-07-15  |
