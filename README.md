@@ -2,6 +2,7 @@
 
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| deathknight      | [Death Knight Hero](https://open.kattis.com/problems/deathknight)                | 2020-07-19  |
 | boatparts        | [Boat Parts](https://open.kattis.com/problems/boatparts)                         | 2020-07-18  |
 | character        | [Character Development](https://open.kattis.com/problems/character)              | 2020-07-17  |
 | parking2         | [Parking](https://open.kattis.com/problems/parking2)                             | 2020-07-16  |
