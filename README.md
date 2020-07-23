@@ -2,6 +2,7 @@
 
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| metaprogramming  | [Metaprogramming](https://open.kattis.com/problems/metaprogramming)              | 2020-07-23  |
 | election2        | [Election](https://open.kattis.com/problems/election2)                           | 2020-07-22  |
 | server           | [Server](https://open.kattis.com/problems/server)                                | 2020-07-21  |
 | prerequisites    | [Prerequisites?](https://open.kattis.com/problems/prerequisites)                 | 2020-07-20  |
