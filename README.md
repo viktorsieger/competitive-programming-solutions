@@ -2,6 +2,7 @@
 
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| cold             | [Cold-puter Science](https://open.kattis.com/problems/cold)                      | 2020-07-24  |
 | metaprogramming  | [Metaprogramming](https://open.kattis.com/problems/metaprogramming)              | 2020-07-23  |
 | election2        | [Election](https://open.kattis.com/problems/election2)                           | 2020-07-22  |
 | server           | [Server](https://open.kattis.com/problems/server)                                | 2020-07-21  |
