@@ -2,6 +2,7 @@
 
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| textureanalysis  | [Texture Analysis](https://open.kattis.com/problems/textureanalysis)             | 2020-07-26  |
 | softpasswords    | [Soft Passwords](https://open.kattis.com/problems/softpasswords)                 | 2020-07-25  |
 | cold             | [Cold-puter Science](https://open.kattis.com/problems/cold)                      | 2020-07-24  |
 | metaprogramming  | [Metaprogramming](https://open.kattis.com/problems/metaprogramming)              | 2020-07-23  |
