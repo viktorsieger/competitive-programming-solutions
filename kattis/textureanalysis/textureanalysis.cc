@@ -27,8 +27,7 @@ int main() {
 
         while(j < line.size()) {
 
-            if(line[j] == '*' && j % separation != 0 ||
-               line[j] == '.' && j % separation == 0) {
+            if(line[j] != line[j % separation]) {
                 break;
             }
 
