@@ -2,6 +2,7 @@
 
 | Problem ID       | Name                                                                             | Date solved |
 | :--------------- | :------------------------------------------------------------------------------- | :---------- |
+| fizzbuzz         | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz)                            | 2020-07-30  |
 | backspace        | [Backspace](https://open.kattis.com/problems/backspace)                          | 2020-07-29  |
 | apaxianparent    | [Honour Thy (Apaxian) Parent](https://open.kattis.com/problems/apaxianparent)    | 2020-07-28  |
 | textureanalysis  | [Texture Analysis](https://open.kattis.com/problems/textureanalysis)             | 2020-07-26  |
