@@ -2,7 +2,7 @@
 
 | Problem ID        | Name                                                                             | Date solved |
 | :---------------- | :------------------------------------------------------------------------------- | :---------- |
-| thegrandadventure | [The Grand Adventure](https://open.kattis.com/problems/thegrandadventure)        | 2020-07-31  |
+| thegrandadventure | [The Grand Adventure](https://open.kattis.com/problems/thegrandadventure)        | 2020-08-01  |
 | fizzbuzz          | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz)                            | 2020-07-30  |
 | backspace         | [Backspace](https://open.kattis.com/problems/backspace)                          | 2020-07-29  |
 | apaxianparent     | [Honour Thy (Apaxian) Parent](https://open.kattis.com/problems/apaxianparent)    | 2020-07-28  |

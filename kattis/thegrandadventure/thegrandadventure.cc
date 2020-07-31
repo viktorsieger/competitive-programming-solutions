@@ -23,13 +23,15 @@ int main() {
 
         while(cin >> noskipws >> c) {
 
-            switch(c) {
-                case '.': continue;
-                case '\n': goto end;
-                case '$':
-                case '|':
-                case '*': backpack.push_back(c);
-                          continue;
+            if(c == '.') {
+                continue;
+            }
+            else if(c == '$' || c == '|' || c == '*') {
+                backpack.push_back(c);
+                continue;
+            }
+            else if(c == '\n') {
+                break;
             }
 
             if(backpack.empty() ||
@@ -43,8 +45,6 @@ int main() {
 
             backpack.pop_back();
         }
-
-end:
 
         if(!backpack.empty()) {
             isFailure = true;
