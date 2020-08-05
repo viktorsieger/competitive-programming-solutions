@@ -2,6 +2,7 @@
 
 | Problem ID        | Name                                                                             | Date solved |
 | :---------------- | :------------------------------------------------------------------------------- | :---------- |
+| soylent           | [Soylent](https://open.kattis.com/problems/soylent)                              | 2020-08-05  |
 | thegrandadventure | [The Grand Adventure](https://open.kattis.com/problems/thegrandadventure)        | 2020-08-01  |
 | fizzbuzz          | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz)                            | 2020-07-30  |
 | backspace         | [Backspace](https://open.kattis.com/problems/backspace)                          | 2020-07-29  |
