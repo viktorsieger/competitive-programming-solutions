@@ -2,6 +2,7 @@
 
 | Problem ID         | Name                                                                             | Date solved |
 | :----------------- | :------------------------------------------------------------------------------- | :---------- |
+| baconeggsandspam   | [Bacon, Eggs, and Spam](https://open.kattis.com/problems/baconeggsandspam)       | 2020-08-11  |
 | engineeringenglish | [Engineering English](https://open.kattis.com/problems/engineeringenglish)       | 2020-08-09  |
 | statistics         | [Statistics](https://open.kattis.com/problems/statistics)                        | 2020-08-07  |
 | soylent            | [Soylent](https://open.kattis.com/problems/soylent)                              | 2020-08-05  |
