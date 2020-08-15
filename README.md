@@ -2,6 +2,7 @@
 
 | Problem ID         | Name                                                                             | Date solved |
 | :----------------- | :------------------------------------------------------------------------------- | :---------- |
+| tripletexting      | [Triple Texting](https://open.kattis.com/problems/tripletexting)                 | 2020-08-15  |
 | hothike            | [Hot Hike](https://open.kattis.com/problems/hothike)                             | 2020-08-13  |
 | baconeggsandspam   | [Bacon, Eggs, and Spam](https://open.kattis.com/problems/baconeggsandspam)       | 2020-08-11  |
 | engineeringenglish | [Engineering English](https://open.kattis.com/problems/engineeringenglish)       | 2020-08-09  |
