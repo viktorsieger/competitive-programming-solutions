@@ -2,6 +2,7 @@
 
 | Problem ID         | Name                                                                             | Date solved |
 | :----------------- | :------------------------------------------------------------------------------- | :---------- |
+| kemija08           | [Kemija](https://open.kattis.com/problems/kemija08)                              | 2020-08-17  |
 | tripletexting      | [Triple Texting](https://open.kattis.com/problems/tripletexting)                 | 2020-08-15  |
 | hothike            | [Hot Hike](https://open.kattis.com/problems/hothike)                             | 2020-08-13  |
 | baconeggsandspam   | [Bacon, Eggs, and Spam](https://open.kattis.com/problems/baconeggsandspam)       | 2020-08-11  |
