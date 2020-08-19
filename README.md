@@ -2,6 +2,7 @@
 
 | Problem ID         | Name                                                                             | Date solved |
 | :----------------- | :------------------------------------------------------------------------------- | :---------- |
+| bookingaroom       | [Booking a Room](https://open.kattis.com/problems/bookingaroom)                  | 2020-08-19  |
 | bela               | [Bela](https://open.kattis.com/problems/bela)                                    | 2020-08-17  |
 | kemija08           | [Kemija](https://open.kattis.com/problems/kemija08)                              | 2020-08-17  |
 | tripletexting      | [Triple Texting](https://open.kattis.com/problems/tripletexting)                 | 2020-08-15  |
