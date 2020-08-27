@@ -2,6 +2,7 @@
 
 | Problem ID          | Name                                                                             | Date solved |
 | :------------------ | :------------------------------------------------------------------------------- | :---------- |
+| jobexpenses         | [Job Expenses](https://open.kattis.com/problems/jobexpenses)                     | 2020-08-27  |
 | kafkaesque          | [Kafkaesque](https://open.kattis.com/problems/kafkaesque)                        | 2020-08-25  |
 | touchscreenkeyboard | [Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard)     | 2020-08-23  |
 | cups                | [Stacking Cups](https://open.kattis.com/problems/cups)                           | 2020-08-21  |
