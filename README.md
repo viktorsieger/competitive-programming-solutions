@@ -2,6 +2,7 @@
 
 | Problem ID          | Name                                                                             | Date solved |
 | :------------------ | :------------------------------------------------------------------------------- | :---------- |
+| cudoviste           | [Cudoviste](https://open.kattis.com/problems/cudoviste)                          | 2020-08-31  |
 | encodedmessage      | [Encoded Message](https://open.kattis.com/problems/encodedmessage)               | 2020-08-29  |
 | jobexpenses         | [Job Expenses](https://open.kattis.com/problems/jobexpenses)                     | 2020-08-27  |
 | kafkaesque          | [Kafkaesque](https://open.kattis.com/problems/kafkaesque)                        | 2020-08-25  |
