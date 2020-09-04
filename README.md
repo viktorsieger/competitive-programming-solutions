@@ -2,6 +2,7 @@
 
 | Problem ID          | Name                                                                             | Date solved |
 | :------------------ | :------------------------------------------------------------------------------- | :---------- |
+| icpcawards          | [ICPC Awards](https://open.kattis.com/problems/icpcawards)                       | 2020-09-04  |
 | nimionese           | [Nimionese](https://open.kattis.com/problems/nimionese)                          | 2020-09-02  |
 | cudoviste           | [Cudoviste](https://open.kattis.com/problems/cudoviste)                          | 2020-08-31  |
 | encodedmessage      | [Encoded Message](https://open.kattis.com/problems/encodedmessage)               | 2020-08-29  |
