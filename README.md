@@ -1,6 +1,6 @@
 # Kattis
 
-| Problem ID          | Name                                                                             | Date solved |
+| Problem ID          | Title                                                                            | Date solved |
 | :------------------ | :------------------------------------------------------------------------------- | :---------- |
 | securedoors         | [Secure Doors](https://open.kattis.com/problems/securedoors)                     | 2020-09-08  |
 | htoo                | [H to O](https://open.kattis.com/problems/htoo)                                  | 2020-09-06  |
