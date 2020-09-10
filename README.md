@@ -2,6 +2,7 @@
 
 | Problem ID          | Title                                                                            | Date solved |
 | :------------------ | :------------------------------------------------------------------------------- | :---------- |
+| beehives            | [Beehives](https://open.kattis.com/problems/beehives)                            | 2020-09-10  |
 | securedoors         | [Secure Doors](https://open.kattis.com/problems/securedoors)                     | 2020-09-08  |
 | htoo                | [H to O](https://open.kattis.com/problems/htoo)                                  | 2020-09-06  |
 | icpcawards          | [ICPC Awards](https://open.kattis.com/problems/icpcawards)                       | 2020-09-04  |
