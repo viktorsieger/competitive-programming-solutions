@@ -2,6 +2,7 @@
 
 | Problem ID          | Title                                                                            | Date solved |
 | :------------------ | :------------------------------------------------------------------------------- | :---------- |
+| quickestimate       | [Quick Estimates](https://open.kattis.com/problems/quickestimate)                | 2020-09-14  |
 | mjehuric            | [Mjehuric](https://open.kattis.com/problems/mjehuric)                            | 2020-09-12  |
 | beehives            | [Beehives](https://open.kattis.com/problems/beehives)                            | 2020-09-10  |
 | securedoors         | [Secure Doors](https://open.kattis.com/problems/securedoors)                     | 2020-09-08  |
