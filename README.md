@@ -2,6 +2,7 @@
 
 | Problem ID          | Title                                                                            | Date solved |
 | :------------------ | :------------------------------------------------------------------------------- | :---------- |
+| imageprocessing     | [Image Processing](https://open.kattis.com/problems/imageprocessing)             | 2020-09-16  |
 | quickestimate       | [Quick Estimates](https://open.kattis.com/problems/quickestimate)                | 2020-09-14  |
 | mjehuric            | [Mjehuric](https://open.kattis.com/problems/mjehuric)                            | 2020-09-12  |
 | beehives            | [Beehives](https://open.kattis.com/problems/beehives)                            | 2020-09-10  |
