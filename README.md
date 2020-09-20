@@ -2,6 +2,7 @@
 
 | Problem ID          | Title                                                                            | Date solved |
 | :------------------ | :------------------------------------------------------------------------------- | :---------- |
+| savingforretirement | [Saving For Retirement](https://open.kattis.com/problems/savingforretirement)    | 2020-09-20  |
 | numberfun           | [Number Fun](https://open.kattis.com/problems/numberfun)                         | 2020-09-18  |
 | imageprocessing     | [Image Processing](https://open.kattis.com/problems/imageprocessing)             | 2020-09-16  |
 | quickestimate       | [Quick Estimates](https://open.kattis.com/problems/quickestimate)                | 2020-09-14  |
