@@ -2,6 +2,7 @@
 
 | Problem ID          | Title                                                                            | Date solved |
 | :------------------ | :------------------------------------------------------------------------------- | :---------- |
+| keytocrypto         | [The Key to Cryptography](https://open.kattis.com/problems/keytocrypto)          | 2020-09-24  |
 | costumecontest      | [Costume Contest](https://open.kattis.com/problems/costumecontest)               | 2020-09-22  |
 | savingforretirement | [Saving For Retirement](https://open.kattis.com/problems/savingforretirement)    | 2020-09-20  |
 | numberfun           | [Number Fun](https://open.kattis.com/problems/numberfun)                         | 2020-09-18  |
