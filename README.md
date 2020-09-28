@@ -2,6 +2,7 @@
 
 | Problem ID          | Title                                                                            | Date solved |
 | :------------------ | :------------------------------------------------------------------------------- | :---------- |
+| chartingprogress    | [Charting Progress](https://open.kattis.com/problems/chartingprogress)           | 2020-09-28  |
 | luhnchecksum        | [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum)       | 2020-09-26  |
 | keytocrypto         | [The Key to Cryptography](https://open.kattis.com/problems/keytocrypto)          | 2020-09-24  |
 | costumecontest      | [Costume Contest](https://open.kattis.com/problems/costumecontest)               | 2020-09-22  |
