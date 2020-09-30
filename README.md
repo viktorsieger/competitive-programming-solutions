@@ -2,6 +2,7 @@
 
 | Problem ID          | Title                                                                            | Date solved |
 | :------------------ | :------------------------------------------------------------------------------- | :---------- |
+| chanukah            | [Chanukah Challenge](https://open.kattis.com/problems/chanukah)                  | 2020-09-30  |
 | chartingprogress    | [Charting Progress](https://open.kattis.com/problems/chartingprogress)           | 2020-09-28  |
 | luhnchecksum        | [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum)       | 2020-09-26  |
 | keytocrypto         | [The Key to Cryptography](https://open.kattis.com/problems/keytocrypto)          | 2020-09-24  |
