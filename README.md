@@ -2,6 +2,7 @@
 
 | Problem ID          | Title                                                                            | Date solved |
 | :------------------ | :------------------------------------------------------------------------------- | :---------- |
+| simonsays           | [Simon Says](https://open.kattis.com/problems/simonsays)                         | 2020-10-06  |
 | conundrum           | [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum)          | 2020-10-04  |
 | harshadnumbers      | [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers)               | 2020-10-02  |
 | chanukah            | [Chanukah Challenge](https://open.kattis.com/problems/chanukah)                  | 2020-09-30  |
