@@ -8,7 +8,7 @@ int main() {
     cin.tie(0);
 
     char c;
-    int i;
+    int i = 0;
 
     while(cin >> noskipws >> c) {
 
