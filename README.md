@@ -2,6 +2,7 @@
 
 | Problem ID          | Title                                                                            | Date solved |
 | :------------------ | :------------------------------------------------------------------------------- | :---------- |
+| quiteaproblem       | [Quite a Problem](https://open.kattis.com/problems/quiteaproblem)                | 2020-10-10  |
 | sifferprodukt       | [Digit Product](https://open.kattis.com/problems/sifferprodukt)                  | 2020-10-08  |
 | simonsays           | [Simon Says](https://open.kattis.com/problems/simonsays)                         | 2020-10-06  |
 | conundrum           | [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum)          | 2020-10-04  |
