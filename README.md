@@ -2,6 +2,7 @@
 
 | Problem ID          | Title                                                                            | Date solved |
 | :------------------ | :------------------------------------------------------------------------------- | :---------- |
+| quickbrownfox       | [Quick Brown Fox](https://open.kattis.com/problems/quickbrownfox)                | 2021-06-05  |
 | hissingmicrophone   | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)         | 2021-05-13  |
 | quiteaproblem       | [Quite a Problem](https://open.kattis.com/problems/quiteaproblem)                | 2020-10-10  |
 | sifferprodukt       | [Digit Product](https://open.kattis.com/problems/sifferprodukt)                  | 2020-10-08  |
