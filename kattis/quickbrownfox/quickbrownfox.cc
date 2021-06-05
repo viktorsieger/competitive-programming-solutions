@@ -27,7 +27,7 @@ int main() {
 
             s.erase(c);
 
-            if(64 < (int)c && (int)c < 91) {
+            if((int)c > 64) {
                 s.erase(c + 32);
             }
         }
