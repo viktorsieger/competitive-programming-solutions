@@ -28,7 +28,7 @@ int main() {
             s.erase(c);
 
             if((int)c > 64) {
-                s.erase(c + 32);
+                s.erase((char)((int)c + 32));
             }
         }
 
